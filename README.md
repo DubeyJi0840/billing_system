@@ -33,7 +33,7 @@ Installation
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/DubeyJi0840/billing-system.git
+git clone https://github.com/DubeyJi0840/billing_system.git
 
 
 2. Navigate to the project directory:
